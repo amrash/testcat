@@ -1,4 +1,6 @@
 //Creation&Computation
+ //* Creation & Computation - Digital Futures, OCAD University
+ //* Kate Hartman / Nick Puckett
 //reads 2 sensor values from arduino
 //draws circles based on the analog sensor values
 //requires p5.serialcontrol to be running
